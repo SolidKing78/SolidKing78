@@ -1,107 +1,206 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=180&section=header&text=Mehmet%20Seyrimez&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=CAD%20%2F%20CAM%20%26%20Otomasyon%20Geli%C5%9Ftirici&descAlignY=55&descSize=16" width="100%"/>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Merhaba%2C+Ben+Mehmet+Seyrimez+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;SolidKing78+%40+GitHub" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=800&color=667EEA&center=true&vCenter=true&multiline=true&width=700&height=90&lines=Merhaba+%F0%9F%91%8B+Ben+Mehmet+Seyrimez;SolidWorks+API+%7C+CAD%2FCAM+Otomasyonu;M%C3%BChendislikten+%C3%9Cretime+Ak%C4%B1ll%C4%B1+%C3%87%C3%B6z%C3%BCmler;7%2B+Y%C4%B1l+Ar-Ge+%7C+Vibe+Coding+%F0%9F%9A%80" alt="Typing Animation"/>
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/SolidKing78?style=for-the-badge&logo=github&color=24292f&labelColor=24292f)](https://github.com/SolidKing78)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-seyrimez/)
-[![Location](https://img.shields.io/badge/%C4%B0stanbul-T%C3%BCrkiye-red?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d285122135e.gif" width="700">
+
+<br/>
+
+[![Website](https://img.shields.io/badge/🌐_mehmetseyrimez.com-667eea?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mehmetseyrimez.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mehmet_Seyrimez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-seyrimez/)
+[![GitHub](https://img.shields.io/badge/GitHub-SolidKing78-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SolidKing78)
+[![Email](https://img.shields.io/badge/E--posta-mehmetseyrimez@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehmetseyrimez@gmail.com)
+[![Location](https://img.shields.io/badge/📍_İstanbul_Teknopark-Pendik-f093fb?style=for-the-badge)](#)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-79226596-5b344eee-62e7-4040-9b00-1353df676b72.gif" width="400">
 
 </div>
 
 ---
 
-### 👨‍💻 Hakkımda
+### ⚡ Vibe Coding · Otomasyon Hattı
 
-```javascript
-const mehmet = {
-  konum: "İstanbul, Türkiye 🇹🇷",
-  rol: "Full Stack Developer",
-  odak: ["Web Geliştirme", "Otomasyon", "Modern UI/UX"],
-  ogreniyor: ["Yeni teknolojiler", "Açık kaynak katkıları"],
-  ilgiAlanlari: ["Yazılım mimarisi", "Verimli kod", "Problem çözme"],
-  hedef: "Kaliteli projeler üretmek ve topluluğa katkı sağlamak"
-};
+```csharp
+namespace MehmetSeyrimez.Automation
+{
+    public class Developer
+    {
+        public string Name       => "Mehmet Seyrimez";
+        public string Role       => "CAD/CAM & Otomasyon Geliştirici";
+        public string Location   => "İstanbul Teknopark, Pendik 🇹🇷";
+        public int    Experience => 7; // yıl Ar-Ge
+
+        public string[] Expertise =>
+        [
+            "SolidWorks API · Makro · C#/.NET Add-in",
+            "Parametrik Montaj & Otomatik Dokümantasyon",
+            "CAD/CAM Otomasyonu · DXF · PDF · STEP · BOM",
+            "Toplu Dosya İşlemleri & Özellik Yönetimi",
+            "AI Destekli CRM & Akıllı İş Akışları",
+            "ParametriX · Parametrik Tasarım Platformu"
+        ];
+
+        public string[] Stack =>
+        [
+            "C#", ".NET", "SolidWorks API", "VBA", "C++", "Python",
+            "Next.js", "TypeScript", "LLM Workflows"
+        ];
+
+        public string Motto =>
+            "Koddan montaja uzanan mühendislik hattı. ⚙️→🚀";
+    }
+}
 ```
 
-Merhaba! Ben **Mehmet Seyrimez**. Yazılım geliştirme tutkusuyla, temiz kod ve kullanıcı odaklı çözümler üretmeye odaklanıyorum. Sürekli öğrenmeyi ve kendimi geliştirmeyi seviyorum.
-
----
-
-### 🛠️ Teknoloji Yığını
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,git,github,vscode,docker&perline=6" alt="Tech Stack" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
-</p>
-
----
-
-### 📊 GitHub İstatistikleri
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SolidKing78&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" alt="GitHub Stats"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SolidKing78&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolidKing78&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" alt="Top Languages"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=f093fb&center=true&width=600&lines=Parametrik+montaj%2C+otomatik+dok%C3%BCmantasyon.;VBA+makrolar%C4%B1ndan+kurumsal+add-in+mimarisine.;Tasar%C4%B1m+%E2%86%92+%C3%9Cretim+arası+tekrar+eden+i%C5%9Fleri+ortadan+kald%C4%B1r%C4%B1yorum." alt="Sub typing"/>
 
 </div>
 
 ---
 
-### 🏆 GitHub Rozetleri
+### 🔧 Ne Yapıyorum?
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SolidKing78&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+**🏭 CAD/CAM Otomasyonu**
+- Parametrik montaj kurgusu
+- Otomatik teknik resim & BOM
+- Toplu dosya işlemleri
+- Üretim çıktıları (DXF, PDF, STEP)
+- Özellik & özel özellik yönetimi
 
-</div>
+</td>
+<td width="50%" valign="top">
+
+**⚙️ SolidWorks Ekosistemi**
+- SolidWorks API geliştirme
+- VBA makroları
+- C#/.NET eklentileri (Add-in)
+- Kurumsal add-in mimarisi
+- [ParametriX](https://mehmetseyrimez.com) platformu
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🤖 Akıllı Yazılım & AI**
+- LLM tabanlı iş akışları
+- AI destekli CRM panelleri
+- İç araçlar & otomasyon scriptleri
+- Web tabanlı yönetim panelleri
+
+</td>
+<td width="50%" valign="top">
+
+**💻 Vibe Coding**
+- Next.js & TypeScript
+- Modern UI/UX arayüzler
+- API entegrasyonları
+- Hızlı prototipleme & iterasyon
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📈 Aktivite Grafiği
+### 🛠️ Teknoloji Arsenalim
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SolidKing78&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true" alt="Activity Graph"/>
-
-</div>
-
----
-
-### 🤝 Benimle İletişime Geç
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-SolidKing78-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SolidKing78)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mehmet_Seyrimez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-seyrimez/)
-[![Email](https://img.shields.io/badge/E--posta-İletişim-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=SolidKing78&label=Profil+Görüntüleme&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,cpp,js,ts,react,nextjs,nodejs,git,github,vscode&perline=6" alt="Tech Stack"/>
 
 <br/><br/>
 
-*"Kod yazmak bir sanattır; her satır bir fikirdir, her proje bir hikayedir."* ✨
+<img src="https://img.shields.io/badge/SolidWorks_API-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/>
+<img src="https://img.shields.io/badge/CAD%2FCAM-667eea?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VBA-Macro-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%2FLLM-f093fb?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/ParametriX-764ba2?style=for-the-badge"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=100&section=footer" width="100%"/>
+</div>
+
+---
+
+### 📊 GitHub Pulse
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SolidKing78&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&border_radius=10"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SolidKing78&theme=radical&hide_border=true&background=0D1117&ring=667eea&fire=f093fb&currStreakLabel=764ba2&border_radius=10"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolidKing78&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&border_radius=10"/>
+
+</div>
+
+---
+
+### 🏆 Başarılar & Aktivite
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SolidKing78&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SolidKing78&theme=react&hide_border=true&bg_color=0d1117&color=667eea&line=f093fb&point=764ba2&area=true&area_color=667eea" alt="Activity Graph"/>
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SolidKing78/SolidKing78/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SolidKing78/SolidKing78/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SolidKing78/SolidKing78/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+
+---
+
+### 🤝 Proje mi var? Konuşalım!
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1500&color=764ba2&center=true&width=500&lines=Site+yay%C4%B1na+girmeden+de+konu%C5%9Fabiliriz+%F0%9F%92%AC;K%C4%B1sa+bir+mesaj+yeterli+%E2%86%92+h%C4%B1zl%C4%B1+d%C3%B6n%C3%BC%C5%9F" alt="CTA typing"/>
+
+<br/>
+
+[![Website](https://img.shields.io/badge/🌐_Web_Sitem-mehmetseyrimez.com-667eea?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mehmetseyrimez.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Bağlantı_Kur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-seyrimez/)
+[![Email](https://img.shields.io/badge/📧_E--posta-mehmetseyrimez@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehmetseyrimez@gmail.com)
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=SolidKing78&label=Profil+Görüntüleme&color=667eea&style=for-the-badge" alt="Profile Views"/>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme-quote.vercel.app/api?type=horizontal&theme=radical&quote=Koddan+montaja+uzanan+m%C3%BChendislik+hatt%C4%B1.&author=Mehmet+Seyrimez" alt="Quote"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
