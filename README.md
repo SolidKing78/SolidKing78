@@ -14,7 +14,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mehmet_Seyrimez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-seyrimez/)
 [![GitHub](https://img.shields.io/badge/GitHub-SolidKing78-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SolidKing78)
 [![Email](https://img.shields.io/badge/E--posta-mehmetseyrimez@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehmetseyrimez@gmail.com)
-[![Location](https://img.shields.io/badge/📍_İstanbul_Teknopark-Pendik-f093fb?style=for-the-badge)](#)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-79226596-5b344eee-62e7-4040-9b00-1353df676b72.gif" width="400">
 
@@ -31,7 +30,6 @@ namespace MehmetSeyrimez.Automation
     {
         public string Name       => "Mehmet Seyrimez";
         public string Role       => "CAD/CAM & Otomasyon Geliştirici";
-        public string Location   => "İstanbul Teknopark, Pendik 🇹🇷";
         public int    Experience => 7; // yıl Ar-Ge
 
         public string[] Expertise =>
@@ -141,7 +139,7 @@ namespace MehmetSeyrimez.Automation
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SolidKing78&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SolidKing78&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&border_radius=10&show=reviews,discussions,prs_issues,prs,issues,commits"/>
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SolidKing78&theme=radical&hide_border=true&background=0D1117&ring=667eea&fire=f093fb&currStreakLabel=764ba2&border_radius=10"/>
 
@@ -191,7 +189,77 @@ namespace MehmetSeyrimez.Automation
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Bağlantı_Kur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-seyrimez/)
 [![Email](https://img.shields.io/badge/📧_E--posta-mehmetseyrimez@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehmetseyrimez@gmail.com)
 
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:667eea,100:764ba2&height=3&section=header&animation=scaleIn" width="100%"/>
+
+### 📦 Public Repo Analytics · Showcase Dashboard
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1200&color=667eea&center=true&width=650&lines=Public+repolar%C4%B1m+canl%C4%B1+analiz+ile+g%C3%BCncellenir+%F0%9F%93%8A;Dil+dagilimi+%C2%B7+commit+heatmap+%C2%B7+repo+kartlar%C4%B1;Her+yeni+repo+otomatik+eklenir+%E2%9A%A1" alt="Repo analytics typing"/>
+
 <br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SolidKing78&theme=radical" width="400"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SolidKing78&theme=radical" width="400"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SolidKing78&theme=radical" width="400"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SolidKing78&theme=radical" width="400"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SolidKing78&theme=radical&utcOffset=3" width="810"/>
+
+</div>
+
+---
+
+#### 🗂️ Dil Dağılımı · Gelişmiş Grafikler
+
+<div align="center">
+
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolidKing78&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&border_radius=10&langs_count=10"/>
+
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolidKing78&layout=pie&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&border_radius=10&langs_count=8"/>
+
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolidKing78&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&border_radius=10&langs_count=10"/>
+
+</div>
+
+---
+
+#### 📌 Public Repository Cards
+
+<div align="center">
+
+<!-- REPOS:START -->
+<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=SolidKing78&repo=SolidKing78&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&border_radius=10&description_lines=3"/>
+<!-- REPOS:END -->
+
+</div>
+
+---
+
+#### 📈 Repo Activity Heatmap
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SolidKing78&theme=react&hide_border=true&bg_color=0d1117&color=667eea&line=f093fb&point=764ba2&area=true&area_color=667eea&custom_title=Public+Repo+Commit+Aktivitesi&height=300" alt="Repo Activity Heatmap"/>
+
+<br/><br/>
+
+<img src="https://ssprofile-advanced.vercel.app/api/user/contribution/3d/SolidKing78?theme=radical&no-frame=true" alt="3D Contribution Graph" width="700"/>
+
+</div>
+
+---
+
+<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=SolidKing78&label=Profil+Görüntüleme&color=667eea&style=for-the-badge" alt="Profile Views"/>
 
