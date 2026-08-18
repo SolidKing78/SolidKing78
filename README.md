@@ -239,6 +239,7 @@ namespace MehmetSeyrimez.Automation
 
 <!-- REPOS:START -->
 <img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=SolidKing78&repo=SolidKing78&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&border_radius=10&description_lines=3"/>
+
 <!-- REPOS:END -->
 
 </div>
