@@ -1,12 +1,72 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=210&section=header&text=Mehmet%20Seyrimez&fontSize=46&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=CAD%20%2F%20CAM%20%26%20Otomasyon%20Geli%C5%9Ftirici%20%C2%B7%20SolidWorks%20API%20Expert&descSize=17&descAlignY=56&stroke=667eea"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:667eea,50:764ba2,100:f093fb&height=240&text=Mehmet%20Seyrimez&fontSize=52&fontColor=fff&animation=scaleIn&fontAlignY=40&stroke=ffffff&strokeWidth=1"/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f3460,100:667eea&height=55&section=header&text=CAD%20%2F%20CAM%20%26%20Otomasyon%20Geli%C5%9Ftirici%20%C2%B7%20SolidWorks%20API%20Expert&fontSize=18&fontColor=fff&animation=fadeIn" width="100%"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=740&height=95&lines=M%C3%BChendislikten+%C3%9Cretime+Ak%C4%B1ll%C4%B1+%C3%87%C3%B6z%C3%BCmler;SolidWorks+API+%C2%B7+C%23%2F.NET+Add-in+%C2%B7+Parametrik+Otomasyon;7%2B+Y%C4%B1l+Ar-Ge+%C2%B7+ParametriX+Platform+%C2%B7+AI+Entegrasyonu" alt="Typing"/>
+<!-- ═══ HERO SLIDER 1 · Ana Başlık ═══ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2500&pause=600&color=667EEA&center=true&vCenter=true&multiline=true&width=780&height=110&lines=Merhaba+%F0%9F%91%8B+Ben+Mehmet+Seyrimez;M%C3%BChendislikten+%C3%9Cretime+Ak%C4%B1ll%C4%B1+%C3%87%C3%B6z%C3%BCmler;SolidWorks+API+%C2%B7+C%23%2F.NET+Add-in+Expert;Parametrik+Montaj+%E2%86%92+Otomatik+Dok%C3%BCmansasyon;7%2B+Y%C4%B1l+Ar-Ge+%C2%B7+ParametriX+%C2%B7+AI+Entegrasyonu" alt="Hero Slider"/>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d285122135e.gif" width="700">
+<!-- ═══ HERO SLIDER 2 · Alt Slogan ═══ -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2200&pause=500&color=f093fb&center=true&vCenter=true&multiline=true&width=720&height=70&lines=Koddan+montaja+uzanan+m%C3%BChendislik+hatt%C4%B1+%E2%9A%99%EF%B8%8F%E2%86%92%F0%9F%9A%80;VBA+makrolar%C4%B1ndan+kurumsal+add-in+mimarisine;Tasar%C4%B1m+%E2%86%92+%C3%9Cretim+arası+tekrar+eden+i%C5%9Fleri+s%C4%B1f%C4%B1rl%C4%B1yorum;AI+destekli+CRM+%C2%B7+LLM+i%C5%9F+ak%C4%B1%C5%9Flar%C4%B1+%C2%B7+Next.js" alt="Sub Slider"/>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d285122135e.gif" width="750">
+
+</div>
+
+<!-- ═══ SLIDER 3 · Teknoloji Bandı (Kaydırma) ═══ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=667eea&height=3&section=header&animation=blinking" width="100%"/>
+
+<p align="center">
+<marquee behavior="scroll" direction="left" scrollamount="10">
+<img src="https://img.shields.io/badge/SolidWorks_API-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/CAD%2FCAM-667eea?style=for-the-badge"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/ParametriX-764ba2?style=for-the-badge"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/AI%2FLLM-f093fb?style=for-the-badge&logo=openai&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/SolidWorks_API-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/CAD%2FCAM-667eea?style=for-the-badge"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/ParametriX-764ba2?style=for-the-badge"/>&nbsp;&nbsp;
+</marquee>
+</p>
+
+<!-- ═══ SLIDER 4 · Hizmet Bandı (Ters Yön) ═══ -->
+<p align="center">
+<marquee behavior="scroll" direction="right" scrollamount="8">
+✦ Parametrik Montaj &nbsp; ✦ Otomatik BOM & Teknik Resim &nbsp; ✦ DXF · PDF · STEP Çıktıları &nbsp; ✦ Toplu Dosya İşlemleri &nbsp; ✦ Kurumsal Add-in Mimarisi &nbsp; ✦ AI Destekli CRM Panelleri &nbsp; ✦ LLM Tabanlı İş Akışları &nbsp; ✦ ParametriX Platform &nbsp; ✦ SolidWorks API Otomasyon &nbsp; ✦ Parametrik Montaj &nbsp; ✦ Otomatik BOM & Teknik Resim &nbsp; ✦ DXF · PDF · STEP Çıktıları &nbsp; ✦
+</marquee>
+</p>
+
+<!-- ═══ SLIDER 5 · CTA Bandı ═══ -->
+<p align="center">
+<marquee behavior="scroll" direction="left" scrollamount="6">
+🚀 &nbsp; <b>Projenizi konuşalım</b> &nbsp; → &nbsp; <a href="https://www.linkedin.com/in/mehmet-seyrimez/">LinkedIn'de Bağlantı Kur</a> &nbsp; ✦ &nbsp; <a href="https://mehmetseyrimez.com">mehmetseyrimez.com</a> &nbsp; ✦ &nbsp; <a href="mailto:mehmetseyrimez@gmail.com">mehmetseyrimez@gmail.com</a> &nbsp; ✦ &nbsp; 7+ Yıl Ar-Ge Deneyimi &nbsp; ✦ &nbsp; 24 Saat İçinde Dönüş &nbsp; ✦ &nbsp; <b>Projenizi konuşalım</b> &nbsp; → &nbsp; <a href="https://www.linkedin.com/in/mehmet-seyrimez/">LinkedIn'de Bağlantı Kur</a> &nbsp; ✦ &nbsp;
+</marquee>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=764ba2&height=3&section=header&animation=blinking" width="100%"/>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-79226596-5b344eee-62e7-4040-9b00-1353df676b72.gif" width="480">
+
+<br/>
+
+<a href="https://mehmetseyrimez.com"><img src="https://img.shields.io/badge/🌐_mehmetseyrimez.com-667eea?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mehmet-seyrimez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/SolidKing78"><img src="https://img.shields.io/badge/GitHub-SolidKing78-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:mehmetseyrimez@gmail.com"><img src="https://img.shields.io/badge/Gmail-mehmetseyrimez@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
 
@@ -35,15 +95,6 @@ Site yayına girmeden de projenizi konuşabiliriz — kısa bir mesaj yeterli.
 </td>
 </tr>
 </table>
-
-<br/>
-
-<a href="https://mehmetseyrimez.com"><img src="https://img.shields.io/badge/🌐_mehmetseyrimez.com-667eea?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/mehmet-seyrimez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/SolidKing78"><img src="https://img.shields.io/badge/GitHub-SolidKing78-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:mehmetseyrimez@gmail.com"><img src="https://img.shields.io/badge/Gmail-mehmetseyrimez@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-79226596-5b344eee-62e7-4040-9b00-1353df676b72.gif" width="450">
 
 </div>
 
