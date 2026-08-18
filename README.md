@@ -189,6 +189,7 @@ Next.js · TypeScript modülleri
 
 <!-- REPOS:START -->
 <img width="415" src="https://github-readme-stats.vercel.app/api/pin/?username=SolidKing78&repo=SolidKing78&theme=transparent&hide_border=true&bg_color=0a0a0f&title_color=c9a962&icon_color=8892b0&text_color=e8e8e8&border_radius=14&description_lines=3"/>
+
 <!-- REPOS:END -->
 
 </div>
