@@ -258,7 +258,7 @@ namespace MehmetSeyrimez.Automation
 
 <br/><br/>
 
-<img src="https://github-contribution-grid-snake.vercel.app/grid?username=SolidKing78&dark_mode=true&color=667eea" alt="Contribution Grid" width="700"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SolidKing78&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=764ba2&line=f093fb&point=667eea&area=true&custom_title=Commit+Heatmap+%C2%B7+Compact&height=280" alt="Compact Heatmap" width="700"/>
 
 </div>
 
