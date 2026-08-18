@@ -29,7 +29,7 @@ jobs:
             });
 
             const profileRepo = 'SolidKing78';
-            const publicRepos = repos.filter(r => !r.private);
+            const publicRepos = repos.filter(r => !r.private && r.name !== profileRepo);
 
             let cards = '';
             for (const repo of publicRepos) {
@@ -37,7 +37,7 @@ jobs:
             }
 
             if (publicRepos.length === 0) {
-              cards = '<img width="410" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=2000&color=667eea&center=true&width=500&lines=Hen%C3%BCz+public+repo+yok+%F0%9F%9A%80;Yak%C4%B1nda+burada+olacak%21"/>\n';
+              cards = '<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=1500&color=c9a962&center=true&width=520&lines=Hen%C3%BCz+proje+reposu+yok+%E2%9A%A1;Yeni+repo+eklendi%C4%9Finde+otomatik+buraya+d%C3%BC%C5%9Fecek"/>\n';
             }
 
             const readme = fs.readFileSync('README.md', 'utf8');

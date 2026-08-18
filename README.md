@@ -1,5 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0f,50:141419,100:1e1e28&height=230&text=Mehmet%20Seyrimez&fontSize=50&fontColor=e8e8e8&animation=fadeIn&fontAlignY=38&stroke=c9a962&strokeWidth=1"/>
 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:141419,100:1e1e28&height=48&section=header&text=SolidWorks+%26+CAD%2FCAM+Otomasyon+Uzman%C4%B1&fontSize=16&fontColor=c9a962&animation=scaleIn" width="100%"/>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=c9a962&height=2&section=header&animation=blinking" width="100%"/>
 
 <div align="center">
@@ -14,43 +16,60 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d285122135e.gif" width="680">
 
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2000&pause=900&color=c9a962&center=true&width=480&lines=Hemen+ileti%C5%9Fime+ge%C3%A7+%E2%86%93;Proje+talebi+i%C3%A7in+t%C4%B1klay%C4%B1n" alt="CTA hint"/>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-79226596-5b344eee-62e7-4040-9b00-1353df676b72.gif" width="420">
+
 <br/><br/>
 
-<a href="https://mehmetseyrimez.com"><img src="https://img.shields.io/badge/Portfolyo-mehmetseyrimez.com-c9a962?style=for-the-badge&logo=googlechrome&logoColor=0a0a0f"/></a>
+<!-- CTA Butonları -->
+<a href="https://www.linkedin.com/in/mehmet-seyrimez/"><img src="https://img.shields.io/badge/💼_LinkedIn'de_Bağlan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=005582" height="46"/></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/mehmet-seyrimez/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://mehmetseyrimez.com"><img src="https://img.shields.io/badge/🌐_Portfolyo-mehmetseyrimez.com-c9a962?style=for-the-badge&logo=googlechrome&logoColor=0a0a0f&labelColor=1e1e28" height="46"/></a>
 &nbsp;
-<a href="https://github.com/SolidKing78"><img src="https://img.shields.io/badge/GitHub-0a0a0f?style=for-the-badge&logo=github&logoColor=c9a962"/></a>
+<a href="mailto:mehmetseyrimez@gmail.com?subject=CAD%2FCAM%20Otomasyon%20Talebi"><img src="https://img.shields.io/badge/📧_Proje_Talebi_Gönder-2d2d44?style=for-the-badge&logo=gmail&logoColor=c9a962&labelColor=0a0a0f" height="46"/></a>
 &nbsp;
-<a href="mailto:mehmetseyrimez@gmail.com?subject=CAD%2FCAM%20Otomasyon%20Talebi"><img src="https://img.shields.io/badge/E--posta-mehmetseyrimez@gmail.com-2d2d44?style=for-the-badge&logo=gmail&logoColor=c9a962"/></a>
+<a href="https://github.com/SolidKing78"><img src="https://img.shields.io/badge/⚡_GitHub-SolidKing78-0a0a0f?style=for-the-badge&logo=github&logoColor=c9a962&labelColor=141419" height="46"/></a>
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=c9a962&height=1&section=header&animation=scaleIn" width="100%"/>
 
+<!-- ═══ PROJE TALEBİ ═══ -->
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1e28,100:0a0a0f&height=70&section=header&text=%F0%9F%93%A9%20Proje%20Talebi&fontSize=22&fontColor=c9a962&animation=fadeIn" width="100%"/>
+
 <div align="center">
 
-### Proje Talebi
-
-<table>
-<tr>
-<td align="center" width="680">
-
-**SolidWorks, AutoCAD, Inventor veya herhangi bir CAD/CAM programında otomasyon mu arıyorsunuz?**
-
-Makro, add-in, toplu işlem veya özel entegrasyon — kısa bir mesaj yeterli.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3200&pause=1000&color=8892b0&center=true&width=680&lines=SolidWorks%2C+AutoCAD%2C+Inventor+otomasyonu+mu+ar%C4%B1yorsunuz%3F;Makro+%C2%B7+Add-in+%C2%B7+Toplu+i%C5%9Flem+%C2%B7+%C3%96zel+entegrasyon;K%C4%B1sa+bir+mesaj+yeterli+%E2%86%92+h%C4%B1zl%C4%B1+d%C3%B6n%C3%BC%C5%9F" alt="Proje typing"/>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/mehmet-seyrimez/"><img src="https://img.shields.io/badge/LinkedIn'de_Bağlantı_Kur-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/></a>
+<table>
+<tr>
+<td align="center" width="700">
+
+**SolidWorks, AutoCAD, Inventor veya herhangi bir CAD/CAM programında otomasyon mu arıyorsunuz?**
+
+Makro · add-in · toplu işlem · özel entegrasyon
+
+<br/>
+
+<a href="https://www.linkedin.com/in/mehmet-seyrimez/"><img src="https://img.shields.io/badge/→_LinkedIn'de_Bağlantı_Kur-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="44"/></a>
 &nbsp;
-<a href="https://mehmetseyrimez.com"><img src="https://img.shields.io/badge/Portfolyo-mehmetseyrimez.com-c9a962?style=for-the-badge&logo=googlechrome&logoColor=0a0a0f" height="40"/></a>
+<a href="https://mehmetseyrimez.com"><img src="https://img.shields.io/badge/→_Portfolyo-mehmetseyrimez.com-c9a962?style=for-the-badge&logo=googlechrome&logoColor=0a0a0f" height="44"/></a>
 &nbsp;
-<a href="mailto:mehmetseyrimez@gmail.com?subject=CAD%2FCAM%20Otomasyon%20Talebi"><img src="https://img.shields.io/badge/Proje_Talebi_Gönder-2d2d44?style=for-the-badge&logo=gmail&logoColor=c9a962" height="40"/></a>
+<a href="mailto:mehmetseyrimez@gmail.com?subject=CAD%2FCAM%20Otomasyon%20Talebi"><img src="https://img.shields.io/badge/→_Proje_Talebi_Gönder-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="44"/></a>
 
 </td>
 </tr>
 </table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-79226596-5b344eee-62e7-4040-9b00-1353df676b72.gif" width="360">
 
 </div>
 
@@ -60,80 +79,70 @@ Makro, add-in, toplu işlem veya özel entegrasyon — kısa bir mesaj yeterli.
 
 ### Hakkımda
 
-```csharp
-namespace MehmetSeyrimez
-{
-    public record Profile
-    {
-        public string Title      = "SolidWorks & CAD/CAM Otomasyon Geliştirici";
-        public int    Experience = 7;
+<div align="left">
 
-        public string[] Platforms =
-        [
-            "SolidWorks · AutoCAD · Inventor · Fusion 360",
-            "Mastercam · CATIA · NX · Creo · CAMWorks"
-        ];
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=600&pause=80&color=c9a962&center=false&width=820&lines=namespace+MehmetSeyrimez+%7B;public+record+Profile+%7B;++++public+string+Title+%3D+%22SolidWorks+%26+CAD%2FCAM+Otomasyon+Geli%C5%9Ftirici%22%3B;++++public+int++++Experience+%3D+7%3B" alt="Code 1"/>
 
-        public string[] Build =
-        [
-            "SolidWorks API · VBA Makro · C#/.NET Add-in",
-            "Parametrik Montaj · BOM · Otomatik Teknik Resim",
-            "DXF · PDF · STEP · Toplu Dosya İşlemleri",
-            "ParametriX · Parametrik Tasarım Platformu",
-            "AI Destekli CRM · LLM Tabanlı İş Akışları"
-        ];
-    }
-}
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=550&pause=80&color=8892b0&center=false&width=820&lines=++++public+string%5B%5D+Platforms+%3D+%5B;++++++++%22SolidWorks+%C2%B7+AutoCAD+%C2%B7+Inventor+%C2%B7+Fusion+360%22%2C;++++++++%22Mastercam+%C2%B7+CATIA+%C2%B7+NX+%C2%B7+Creo+%C2%B7+CAMWorks%22;++++%5D%3B" alt="Code 2"/>
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3800&pause=1100&color=c9a962&center=true&width=660&lines=SolidWorks+API+ve+her+t%C3%BCr+CAD%2FCAM+program+otomasyonu.;Makro%2C+add-in+ve+toplu+i%C5%9Flem+%C3%A7%C3%B6z%C3%BCmleri.;ParametriX+%C2%B7+RCS+Teknoloji+%C2%B7+7%2B+y%C4%B1l+Ar-Ge" alt="About typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=500&pause=80&color=c9a962&center=false&width=820&lines=++++public+string%5B%5D+Build+%3D+%5B;++++++++%22SolidWorks+API+%C2%B7+VBA+Makro+%C2%B7+C%23%2F.NET+Add-in%22%2C;++++++++%22Parametrik+Montaj+%C2%B7+BOM+%C2%B7+Otomatik+Teknik+Resim%22%2C;++++++++%22DXF+%C2%B7+PDF+%C2%B7+STEP+%C2%B7+Toplu+Dosya+%C4%B0%C5%9Flemleri%22%2C;++++++++%22ParametriX+%C2%B7+AI+Destekli+CRM+%C2%B7+LLM+%C4%B0%C5%9F+Ak%C4%B1%C5%9Flar%C4%B1%22;++++%5D%3B;++++%7D;%7D" alt="Code 3"/>
+
 </div>
 
 ---
 
-### Uzmanlık Alanları
+<div align="center">
 
-<table>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:141419,100:1e1e28&height=55&section=header&text=Uzmanl%C4%B1k+Alanlar%C4%B1m&fontSize=18&fontColor=c9a962&animation=scaleIn" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1000&color=c9a962&center=true&width=680&lines=SolidWorks+API+ve+her+t%C3%BCr+CAD%2FCAM+program+otomasyonu.;Makro%2C+add-in+ve+toplu+i%C5%9Flem+%C3%A7%C3%B6z%C3%BCmleri.;ParametriX+%C2%B7+RCS+Teknoloji+%C2%B7+7%2B+y%C4%B1l+Ar-Ge" alt="Expertise typing"/>
+
+<br/>
+
+<table align="center">
 <tr>
-<td align="center" width="33%">
+<td align="center" width="260">
 
-**SolidWorks Otomasyon**
+**🏭 SolidWorks Otomasyon**
 
 API · Makro · C# Add-in  
 Parametrik montaj · BOM  
 Teknik resim · DXF/PDF/STEP
 
 <br/>
-<a href="mailto:mehmetseyrimez@gmail.com?subject=SolidWorks%20Otomasyon"><img src="https://img.shields.io/badge/Teklif_Al-c9a962?style=flat-square&logo=dassaultsystemes&logoColor=0a0a0f"/></a>
+<a href="mailto:mehmetseyrimez@gmail.com?subject=SolidWorks%20Otomasyon"><img src="https://img.shields.io/badge/→_Teklif_Al-c9a962?style=for-the-badge&logo=dassaultsystemes&logoColor=0a0a0f"/></a>
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="260">
 
-**CAD/CAM Otomasyon**
+**⚙️ CAD/CAM Otomasyon**
 
 AutoCAD · Inventor · Fusion 360  
 Mastercam · CAMWorks · CATIA  
 Toplu dosya & özellik yönetimi
 
 <br/>
-<a href="mailto:mehmetseyrimez@gmail.com?subject=CAD%2FCAM%20Otomasyon"><img src="https://img.shields.io/badge/Teklif_Al-c9a962?style=flat-square"/></a>
+<a href="mailto:mehmetseyrimez@gmail.com?subject=CAD%2FCAM%20Otomasyon"><img src="https://img.shields.io/badge/→_Teklif_Al-c9a962?style=for-the-badge"/></a>
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="260">
 
-**ParametriX & AI**
+**🤖 ParametriX & AI**
 
 Parametrik tasarım platformu  
 LLM iş akışları · CRM panelleri  
 Next.js · TypeScript modülleri
 
 <br/>
-<a href="https://mehmetseyrimez.com"><img src="https://img.shields.io/badge/ParametriX-c9a962?style=flat-square"/></a>
+<a href="https://mehmetseyrimez.com"><img src="https://img.shields.io/badge/→_ParametriX-c9a962?style=for-the-badge&labelColor=1e1e28"/></a>
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -161,9 +170,15 @@ Next.js · TypeScript modülleri
 
 ---
 
-### GitHub Analytics
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:141419,100:1e1e28&height=55&section=header&text=GitHub+Analytics&fontSize=18&fontColor=c9a962&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=800&color=8892b0&center=true&width=400&lines=Canl%C4%B1+istatistikler+%F0%9F%93%8A;Commit+%C2%B7+Streak+%C2%B7+Dil+da%C4%9F%C4%B1l%C4%B1m%C4%B1" alt="Stats typing"/>
+
+<br/>
 
 <img height="190" src="https://github-readme-stats.vercel.app/api?username=SolidKing78&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0f&title_color=c9a962&icon_color=8892b0&text_color=e8e8e8&border_radius=14&rank_icon=percentile"/>
 
@@ -177,19 +192,24 @@ Next.js · TypeScript modülleri
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SolidKing78&theme=react&hide_border=true&bg_color=0a0a0f&color=c9a962&line=8892b0&point=e8e8e8&area=true&area_color=c9a962&custom_title=Commit+Aktivitesi&height=260" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SolidKing78&theme=react&hide_border=true&bg_color=0a0a0f&color=c9a962&line=8892b0&point=e8e8e8&area=true&area_color=c9a962&custom_title=Live+Commit+Activity&height=260" width="100%"/>
 
 </div>
 
 ---
 
-### Public Repositories
-
 <div align="center">
 
-<!-- REPOS:START -->
-<img width="415" src="https://github-readme-stats.vercel.app/api/pin/?username=SolidKing78&repo=SolidKing78&theme=transparent&hide_border=true&bg_color=0a0a0f&title_color=c9a962&icon_color=8892b0&text_color=e8e8e8&border_radius=14&description_lines=3"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:141419,100:1e1e28&height=55&section=header&text=Public+Repositories&fontSize=18&fontColor=c9a962&animation=scaleIn" width="100%"/>
 
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2800&pause=1200&color=8892b0&center=true&width=520&lines=Yeni+repo+eklendi%C4%9Finde+otomatik+g%C3%BCncellenir+%E2%9A%A1;Projeler+burada+listelenir" alt="Repo hint"/>
+
+<br/>
+
+<!-- REPOS:START -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=1500&color=c9a962&center=true&width=520&lines=Hen%C3%BCz+proje+reposu+yok+%E2%9A%A1;Yeni+repo+eklendi%C4%9Finde+otomatik+buraya+d%C3%BC%C5%9Fecek"/>
 <!-- REPOS:END -->
 
 </div>
@@ -210,28 +230,32 @@ Next.js · TypeScript modülleri
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1e1e28&height=2&section=header&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=c9a962&height=2&section=header&animation=blinking" width="100%"/>
 
 ---
 
+<!-- ═══ KAPANIŞ ═══ -->
+
 <div align="center">
 
-### İletişim
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1300&color=c9a962&center=true&width=560&lines=SolidWorks+otomasyonu+mu+planl%C4%B1yorsunuz%3F;AutoCAD+%C2%B7+Inventor+%C2%B7+Fusion+360+otomasyonu%3F;K%C4%B1sa+bir+mesaj+%E2%86%92+24+saat+i%C3%A7inde+d%C3%B6n%C3%BC%C5%9F"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1e28,100:0a0a0f&height=75&section=header&text=%F0%9F%A4%9D%20%C4%B0leti%C5%9Fim&fontSize=24&fontColor=c9a962&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<table>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=c9a962&center=true&width=600&lines=SolidWorks+otomasyonu+mu+planl%C4%B1yorsunuz%3F;AutoCAD+%C2%B7+Inventor+%C2%B7+Fusion+360+otomasyonu%3F;K%C4%B1sa+bir+mesaj+%E2%86%92+24+saat+i%C3%A7inde+d%C3%B6n%C3%BC%C5%9F"/>
+
+<br/>
+
+<table align="center">
 <tr>
-<td align="center" width="680">
+<td align="center" width="700">
 
 | | |
 |:---:|:---:|
-| **LinkedIn** | [linkedin.com/in/mehmet-seyrimez](https://www.linkedin.com/in/mehmet-seyrimez/) |
-| **Portfolyo** | [mehmetseyrimez.com](https://mehmetseyrimez.com) |
-| **E-posta** | [mehmetseyrimez@gmail.com](mailto:mehmetseyrimez@gmail.com) |
-| **Yanıt** | Genellikle **24 saat içinde** dönüş |
+| 💼 **LinkedIn** | [linkedin.com/in/mehmet-seyrimez](https://www.linkedin.com/in/mehmet-seyrimez/) |
+| 🌐 **Portfolyo** | [mehmetseyrimez.com](https://mehmetseyrimez.com) |
+| 📧 **E-posta** | [mehmetseyrimez@gmail.com](mailto:mehmetseyrimez@gmail.com) |
+| ⚡ **Yanıt** | Genellikle **24 saat içinde** dönüş |
 
 </td>
 </tr>
@@ -239,11 +263,15 @@ Next.js · TypeScript modülleri
 
 <br/>
 
-<a href="https://www.linkedin.com/in/mehmet-seyrimez/"><img src="https://img.shields.io/badge/LinkedIn'de_Yaz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="42"/></a>
+<a href="https://www.linkedin.com/in/mehmet-seyrimez/"><img src="https://img.shields.io/badge/💼_LinkedIn'de_Yaz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="46"/></a>
 &nbsp;
-<a href="https://mehmetseyrimez.com"><img src="https://img.shields.io/badge/Web-mehmetseyrimez.com-c9a962?style=for-the-badge&logo=googlechrome&logoColor=0a0a0f" height="42"/></a>
+<a href="https://mehmetseyrimez.com"><img src="https://img.shields.io/badge/🌐_Web-mehmetseyrimez.com-c9a962?style=for-the-badge&logo=googlechrome&logoColor=0a0a0f" height="46"/></a>
 &nbsp;
-<a href="mailto:mehmetseyrimez@gmail.com?subject=CAD%2FCAM%20Otomasyon%20Talebi"><img src="https://img.shields.io/badge/E--posta_Gönder-2d2d44?style=for-the-badge&logo=gmail&logoColor=c9a962" height="42"/></a>
+<a href="mailto:mehmetseyrimez@gmail.com?subject=CAD%2FCAM%20Otomasyon%20Talebi"><img src="https://img.shields.io/badge/📧_E--posta_Gönder-2d2d44?style=for-the-badge&logo=gmail&logoColor=c9a962" height="46"/></a>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-79226596-5b344eee-62e7-4040-9b00-1353df676b72.gif" width="400">
 
 <br/><br/>
 
@@ -255,8 +283,13 @@ Next.js · TypeScript modülleri
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1e1e28,100:141419&height=100&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1e1e28,100:141419&height=110&section=footer&animation=fadeIn" width="100%"/>
 
-<sub>Mehmet Seyrimez · SolidWorks & CAD/CAM Otomasyon · <a href="https://mehmetseyrimez.com">mehmetseyrimez.com</a></sub>
+**Mehmet Seyrimez**
+
+*SolidWorks & CAD/CAM Otomasyon Geliştirici*
+
+[![Website](https://img.shields.io/badge/mehmetseyrimez.com-c9a962?style=flat-square&logo=googlechrome&logoColor=0a0a0f)](https://mehmetseyrimez.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-seyrimez/)
 
 </div>
