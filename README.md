@@ -233,7 +233,7 @@ Next.js · TypeScript modülleri
 <br/>
 
 <!-- REPOS:START -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=1500&color=c9a962&center=true&width=520&lines=Henuz+proje+reposu+yok;Yeni+repo+eklendiginde+otomatik+buraya+duser" alt="Repo placeholder"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=1500&color=c9a962&center=true&width=520&lines=Hen%C3%BCz+proje+reposu+yok+%E2%9A%A1;Yeni+repo+eklendi%C4%9Finde+otomatik+buraya+d%C3%BC%C5%9Fecek"/>
 <!-- REPOS:END -->
 
 </div>
