@@ -33,7 +33,7 @@ jobs:
 
             let cards = '';
             for (const repo of publicRepos) {
-              cards += `<img width="415" src="https://github-readme-stats.vercel.app/api/pin/?username=SolidKing78&repo=${repo.name}&theme=transparent&hide_border=true&bg_color=0a0a0f&title_color=c9a962&icon_color=8892b0&text_color=e8e8e8&border_radius=14&description_lines=3"/>\n\n`;
+              cards += `<img width="415" alt="${repo.name}" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SolidKing78&repo=${repo.name}&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=c9a962&icon_color=8892b0&text_color=e8e8e8&border_radius=14&description_lines=3"/>\n\n`;
             }
 
             if (publicRepos.length === 0) {
