@@ -254,7 +254,11 @@ namespace MehmetSeyrimez.Automation
 
 <br/><br/>
 
-<img src="https://ssprofile-advanced.vercel.app/api/user/contribution/3d/SolidKing78?theme=radical&no-frame=true" alt="3D Contribution Graph" width="700"/>
+<img src="https://ghchart.rshah.org/667eea/SolidKing78" alt="Contribution Chart" width="700"/>
+
+<br/><br/>
+
+<img src="https://github-contribution-grid-snake.vercel.app/grid?username=SolidKing78&dark_mode=true&color=667eea" alt="Contribution Grid" width="700"/>
 
 </div>
 
