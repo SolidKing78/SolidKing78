@@ -33,7 +33,7 @@ jobs:
 
             let cards = '';
             for (const repo of publicRepos) {
-              cards += `<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=SolidKing78&repo=${repo.name}&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=f093fb&text_color=c9d1d9&border_radius=10&description_lines=3"/>\n\n`;
+              cards += `<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=SolidKing78&repo=${repo.name}&theme=default&description_lines=3"/>\n\n`;
             }
 
             if (publicRepos.length === 0) {
