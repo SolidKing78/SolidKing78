@@ -110,7 +110,8 @@
 <p align="left">
 
 <!-- REPOS:START -->
-<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=SolidKing78&repo=SolidKing78&theme=default"/>
+<img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=SolidKing78&repo=SolidKing78&theme=default&description_lines=3"/>
+
 <!-- REPOS:END -->
 
 </p>
