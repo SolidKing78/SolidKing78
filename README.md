@@ -1,10 +1,40 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=Mehmet%20Seyrimez&fontSize=48&fontColor=fff&animation=scaleIn&fontAlignY=38&desc=CAD%20%2F%20CAM%20%26%20Otomasyon%20Geli%C5%9Ftirici&descSize=18&descAlignY=58&stroke=f093fb" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=210&section=header&text=Mehmet%20Seyrimez&fontSize=46&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=CAD%20%2F%20CAM%20%26%20Otomasyon%20Geli%C5%9Ftirici%20%C2%B7%20SolidWorks%20API%20Expert&descSize=17&descAlignY=56&stroke=667eea"/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=667EEA&center=true&vCenter=true&multiline=true&width=720&height=100&lines=Merhaba+%F0%9F%91%8B+Ben+Mehmet+Seyrimez;SolidWorks+API+%C2%B7+C%23%2F.NET+Add-in;Parametrik+Montaj+%E2%86%92+Otomatik+Dok%C3%BCmansasyon;7%2B+Y%C4%B1l+Ar-Ge+%C2%B7+Vibe+Coding+%F0%9F%9A%80" alt="Typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&width=740&height=95&lines=M%C3%BChendislikten+%C3%9Cretime+Ak%C4%B1ll%C4%B1+%C3%87%C3%B6z%C3%BCmler;SolidWorks+API+%C2%B7+C%23%2F.NET+Add-in+%C2%B7+Parametrik+Otomasyon;7%2B+Y%C4%B1l+Ar-Ge+%C2%B7+ParametriX+Platform+%C2%B7+AI+Entegrasyonu" alt="Typing"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d285122135e.gif" width="800">
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d285122135e.gif" width="700">
+
+</div>
+
+<!-- ═══════════════ PRIMARY CTA ═══════════════ -->
+
+<div align="center">
+
+### 🎯 Hemen Başlayalım
+
+<table>
+<tr>
+<td align="center" width="700">
+
+**SolidWorks otomasyonu, CAD/CAM entegrasyonu veya AI destekli yazılım mı arıyorsunuz?**
+
+Site yayına girmeden de projenizi konuşabiliriz — kısa bir mesaj yeterli.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/mehmet-seyrimez/"><img src="https://img.shields.io/badge/💼_LinkedIn'de_Bağlantı_Kur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="42"/></a>
+&nbsp;
+<a href="https://mehmetseyrimez.com"><img src="https://img.shields.io/badge/🌐_Portfolyo-mehmetseyrimez.com-667eea?style=for-the-badge&logo=googlechrome&logoColor=white" height="42"/></a>
+&nbsp;
+<a href="mailto:mehmetseyrimez@gmail.com?subject=Proje%20Talebi"><img src="https://img.shields.io/badge/📧_Proje_Talebi_Gönder-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="42"/></a>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -13,79 +43,84 @@
 <a href="https://github.com/SolidKing78"><img src="https://img.shields.io/badge/GitHub-SolidKing78-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:mehmetseyrimez@gmail.com"><img src="https://img.shields.io/badge/Gmail-mehmetseyrimez@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-79226596-5b344eee-62e7-4040-9b00-1353df676b72.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-79226596-5b344eee-62e7-4040-9b00-1353df676b72.gif" width="450">
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=667eea&height=2&section=header&animation=scaleIn" width="100%"/>
+
 ---
 
-### ⚡ Live · Otomasyon Hattı
+### 👨‍💼 Hakkımda
 
 ```csharp
-namespace MehmetSeyrimez
+namespace MehmetSeyrimez.Professional
 {
-    public class Developer
+    public record Profile
     {
-        public string Role       => "CAD/CAM & Otomasyon Geliştirici";
-        public int    Experience => 7;
+        public string Title       = "CAD/CAM & Otomasyon Geliştirici";
+        public int    Experience  = 7;  // yıl Ar-Ge
+        public string Focus       = "Mühendislikten üretime uçtan uca otomasyon";
 
-        public string[] Build    =>
+        public string[] Expertise =
         [
-            "SolidWorks API · Makro · C#/.NET Add-in",
-            "Parametrik Montaj · BOM · DXF/PDF/STEP",
-            "AI Destekli CRM · LLM İş Akışları",
-            "ParametriX · Parametrik Tasarım Platformu"
+            "SolidWorks API · VBA Makro · C#/.NET Add-in",
+            "Parametrik Montaj · BOM · Otomatik Teknik Resim",
+            "DXF · PDF · STEP · Toplu Dosya İşlemleri",
+            "ParametriX · Parametrik Tasarım Platformu",
+            "AI Destekli CRM · LLM Tabanlı İş Akışları"
         ];
-
-        public string Motto => "Koddan montaja uzanan mühendislik hattı ⚙️→🚀";
     }
 }
 ```
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1000&color=f093fb&center=true&width=620&lines=Parametrik+montaj%2C+otomatik+dok%C3%BCmansasyon.;VBA+%E2%86%92+Kurumsal+Add-in+mimarisine.;Tasar%C4%B1m+%E2%86%92+%C3%9Cretim+arası+tekrar+eden+i%C5%9Fleri+s%C4%B1f%C4%B1rl%C4%B1yorum." alt="Sub typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1200&color=667eea&center=true&width=640&lines=Kurumsal+add-in+mimarisinden+h%C4%B1zl%C4%B1+prototipe.;Tasar%C4%B1m+%E2%86%92+%C3%9Cretim+arası+tekrar+eden+i%C5%9Fleri+otomatikle%C5%9Ftiriyorum.;RCS+Teknoloji+%C2%B7+ParametriX+%C2%B7+%C4%B0stanbul+Teknopark" alt="Sub typing"/>
 </div>
 
 ---
 
-### 🔥 Ne Yapıyorum?
+### 💼 Hizmetler & Uzmanlık Alanları
 
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="33%">
 
 **🏭 CAD/CAM Otomasyon**
-- Parametrik montaj kurgusu
-- Otomatik teknik resim & BOM
-- DXF · PDF · STEP çıktıları
-- Toplu dosya işlemleri
+
+Parametrik montaj · BOM  
+Teknik resim · DXF/PDF/STEP  
+Toplu dosya işlemleri
+
+<br/>
+
+<a href="mailto:mehmetseyrimez@gmail.com?subject=CAD%2FCAM%20Otomasyon%20Talebi"><img src="https://img.shields.io/badge/→_Teklif_Al-667eea?style=flat-square"/></a>
 
 </td>
-<td width="50%">
+<td align="center" width="33%">
 
-**⚙️ SolidWorks Ekosistemi**
-- SolidWorks API geliştirme
-- VBA makroları & C# Add-in
-- Kurumsal eklenti mimarisi
-- [ParametriX](https://mehmetseyrimez.com)
+**⚙️ SolidWorks API**
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+VBA makroları · C# Add-in  
+Kurumsal eklenti mimarisi  
+[ParametriX Platformu](https://mehmetseyrimez.com)
 
-**🤖 AI & Akıllı Yazılım**
-- LLM tabanlı iş akışları
-- AI destekli CRM panelleri
-- Next.js & TypeScript modülleri
+<br/>
+
+<a href="https://mehmetseyrimez.com"><img src="https://img.shields.io/badge/→_ParametriX'i_İncele-764ba2?style=flat-square"/></a>
 
 </td>
-<td width="50%">
+<td align="center" width="33%">
 
-**💻 Vibe Coding**
-- Modern UI/UX arayüzler
-- API entegrasyonları
-- Hızlı prototipleme
+**🤖 AI & Yazılım**
+
+LLM iş akışları · CRM panelleri  
+Next.js · TypeScript modülleri  
+Web tabanlı yönetim araçları
+
+<br/>
+
+<a href="https://www.linkedin.com/in/mehmet-seyrimez/"><img src="https://img.shields.io/badge/→_İletişime_Geç-0A66C2?style=flat-square"/></a>
 
 </td>
 </tr>
@@ -93,7 +128,7 @@ namespace MehmetSeyrimez
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Teknoloji Yığını
 
 <div align="center">
 
@@ -103,15 +138,18 @@ namespace MehmetSeyrimez
 
 <img src="https://img.shields.io/badge/SolidWorks_API-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/>
 <img src="https://img.shields.io/badge/CAD%2FCAM-667eea?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/C%23%2F.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft&logoColor=white"/>
 <img src="https://img.shields.io/badge/ParametriX-764ba2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AI%2FLLM-f093fb?style=for-the-badge&logo=openai&logoColor=white"/>
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=764ba2&height=2&section=header&animation=scaleIn" width="100%"/>
+
 ---
 
-### 📊 GitHub Pulse · Live Stats
+### 📊 GitHub Analytics
 
 <div align="center">
 
@@ -121,25 +159,19 @@ namespace MehmetSeyrimez
 
 <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolidKing78&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&border_radius=12&langs_count=8"/>
 
-</div>
-
----
-
-### 🏆 Trophies & Activity
-
-<div align="center">
+<br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=SolidKing78&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SolidKing78&theme=react&hide_border=true&bg_color=0d1117&color=667eea&line=f093fb&point=764ba2&area=true&area_color=667eea&custom_title=Live+Commit+Activity&height=280" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SolidKing78&theme=react&hide_border=true&bg_color=0d1117&color=667eea&line=f093fb&point=764ba2&area=true&area_color=667eea&custom_title=Commit+Aktivitesi&height=260" width="100%"/>
 
 </div>
 
 ---
 
-### 📌 Public Repos
+### 📌 Public Repositories
 
 <div align="center">
 
@@ -152,7 +184,7 @@ namespace MehmetSeyrimez
 
 ---
 
-### 🐍 Live Contribution Snake
+### 🐍 Contribution Activity
 
 <div align="center">
 
@@ -166,23 +198,46 @@ namespace MehmetSeyrimez
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=f093fb&height=2&section=header&animation=scaleIn" width="100%"/>
+
 ---
 
-### 🤝 Proje mi var? Konuşalım!
+<!-- ═══════════════ FINAL CTA ═══════════════ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=764ba2&center=true&width=520&lines=Site+yay%C4%B1na+girmeden+de+konu%C5%9Fabiliriz+%F0%9F%92%AC;K%C4%B1sa+bir+mesaj+%E2%86%92+h%C4%B1zl%C4%B1+d%C3%B6n%C3%BC%C5%9F"/>
+### 🤝 Projenizi Konuşalım
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3200&pause=1400&color=764ba2&center=true&width=580&lines=SolidWorks+otomasyonu+mu+planl%C4%B1yorsunuz%3F;CAD%2FCAM+entegrasyonu+veya+AI+mod%C3%BCl%C3%BC+m%C3%BC+%3F;K%C4%B1sa+bir+mesaj+%E2%86%92+24+saat+i%C3%A7inde+d%C3%B6n%C3%BC%C5%9F"/>
 
 <br/>
 
-<a href="https://mehmetseyrimez.com"><img src="https://img.shields.io/badge/🌐_Web-mehmetseyrimez.com-667eea?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/mehmet-seyrimez/"><img src="https://img.shields.io/badge/💼_LinkedIn-Bağlantı_Kur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:mehmetseyrimez@gmail.com"><img src="https://img.shields.io/badge/📧_Email-mehmetseyrimez@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<table>
+<tr>
+<td align="center" width="720">
+
+| | |
+|:---:|:---:|
+| **💼 LinkedIn** | Profil, deneyim ve referans projeler → [Bağlantı Kur](https://www.linkedin.com/in/mehmet-seyrimez/) |
+| **🌐 Portfolyo** | ParametriX, SolidWorks API ve CAD otomasyon vitrin → [mehmetseyrimez.com](https://mehmetseyrimez.com) |
+| **📧 E-posta** | Doğrudan proje talebi → [mehmetseyrimez@gmail.com](mailto:mehmetseyrimez@gmail.com) |
+| **⚡ Yanıt Süresi** | Kısa mesajınıza genellikle **24 saat içinde** dönüş |
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/mehmet-seyrimez/"><img src="https://img.shields.io/badge/💼_LinkedIn'de_Yaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="44"/></a>
+&nbsp;
+<a href="https://mehmetseyrimez.com"><img src="https://img.shields.io/badge/🌐_Web_Sitesini_Ziyaret_Et-667eea?style=for-the-badge&logo=googlechrome&logoColor=white" height="44"/></a>
+&nbsp;
+<a href="mailto:mehmetseyrimez@gmail.com?subject=Proje%20Talebi%20-%20SolidKing78"><img src="https://img.shields.io/badge/📧_E--posta_Gönder-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="44"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=SolidKing78&label=Profile+Views&color=667eea&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=SolidKing78&label=Profil+Görüntüleme&color=667eea&style=for-the-badge"/>
 
 <br/><br/>
 
@@ -190,6 +245,8 @@ namespace MehmetSeyrimez
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=130&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+<sub>Mehmet Seyrimez · CAD/CAM & Otomasyon Geliştirici · <a href="https://mehmetseyrimez.com">mehmetseyrimez.com</a></sub>
 
 </div>
