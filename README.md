@@ -49,9 +49,9 @@
 <tr>
 <td align="center" width="700">
 
-<a href="https://mehmetseyrimez.com" target="_blank"><strong>SolidWorks, AutoCAD, Inventor veya herhangi bir CAD/CAM programında otomasyon mu arıyorsunuz?</strong></a>
+**SolidWorks, AutoCAD, Inventor veya herhangi bir CAD/CAM programında otomasyon mu arıyorsunuz?**
 
-<a href="https://mehmetseyrimez.com" target="_blank">Makro · add-in · toplu işlem · özel entegrasyon</a>
+Makro · add-in · toplu işlem · özel entegrasyon
 
 <br/>
 
@@ -75,7 +75,7 @@
 
 ---
 
-<h3 align="center"><a href="https://mehmetseyrimez.com" target="_blank">Hakkımda</a></h3>
+### Hakkımda
 
 <div align="center">
 
@@ -131,9 +131,11 @@ namespace MehmetSeyrimez
 <tr>
 <td align="center" width="260">
 
-<a href="https://mehmetseyrimez.com" target="_blank"><strong>SolidWorks Otomasyon</strong></a>
+**SolidWorks Otomasyon**
 
-<a href="https://mehmetseyrimez.com" target="_blank">API · Makro · C# Add-in<br/>Parametrik montaj · BOM<br/>Teknik resim · DXF/PDF/STEP</a>
+API · Makro · C# Add-in  
+Parametrik montaj · BOM  
+Teknik resim · DXF/PDF/STEP
 
 <br/>
 <a href="mailto:mehmetseyrimez@gmail.com?subject=SolidWorks%20Otomasyon%20Talebi"><img src="https://img.shields.io/badge/Teklif_Al-c9a962?style=for-the-badge&logo=dassaultsystemes&logoColor=0a0a0f" alt="Teklif Al"/></a>
@@ -141,9 +143,11 @@ namespace MehmetSeyrimez
 </td>
 <td align="center" width="260">
 
-<a href="https://mehmetseyrimez.com" target="_blank"><strong>CAD/CAM Otomasyon</strong></a>
+**CAD/CAM Otomasyon**
 
-<a href="https://mehmetseyrimez.com" target="_blank">AutoCAD · Inventor · Fusion 360<br/>Mastercam · CAMWorks · CATIA<br/>Toplu dosya & özellik yönetimi</a>
+AutoCAD · Inventor · Fusion 360  
+Mastercam · CAMWorks · CATIA  
+Toplu dosya & özellik yönetimi
 
 <br/>
 <a href="mailto:mehmetseyrimez@gmail.com?subject=CAD%2FCAM%20Otomasyon%20Talebi"><img src="https://img.shields.io/badge/Teklif_Al-c9a962?style=for-the-badge" alt="Teklif Al"/></a>
@@ -151,9 +155,11 @@ namespace MehmetSeyrimez
 </td>
 <td align="center" width="260">
 
-<a href="https://mehmetseyrimez.com" target="_blank"><strong>ParametriX & AI</strong></a>
+**ParametriX & AI**
 
-<a href="https://mehmetseyrimez.com" target="_blank">Parametrik tasarım platformu<br/>LLM iş akışları · CRM panelleri<br/>Next.js · TypeScript modülleri</a>
+Parametrik tasarım platformu  
+LLM iş akışları · CRM panelleri  
+Next.js · TypeScript modülleri
 
 <br/>
 <a href="https://mehmetseyrimez.com" target="_blank"><img src="https://img.shields.io/badge/ParametriX-c9a962?style=for-the-badge&labelColor=1e1e28" alt="ParametriX"/></a>
@@ -166,7 +172,7 @@ namespace MehmetSeyrimez
 
 ---
 
-<h3 align="center"><a href="https://mehmetseyrimez.com" target="_blank">Teknoloji</a></h3>
+### Teknoloji
 
 <div align="center">
 
@@ -238,7 +244,7 @@ namespace MehmetSeyrimez
 
 ---
 
-<h3 align="center"><a href="https://mehmetseyrimez.com" target="_blank">Contribution Activity</a></h3>
+### Contribution Activity
 
 <div align="center">
 
@@ -295,16 +301,16 @@ namespace MehmetSeyrimez
 
 <br/><br/>
 
-> [<em>"SolidWorks ve her tür CAD/CAM programda otomasyon çözümleri."</em>](https://mehmetseyrimez.com)
-> [**— Mehmet Seyrimez**](https://mehmetseyrimez.com)
+> *"SolidWorks ve her tür CAD/CAM programda otomasyon çözümleri."*
+> **— Mehmet Seyrimez**
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:1e1e28,100:141419&height=110&section=footer&animation=fadeIn"/>
 
-<a href="https://mehmetseyrimez.com" target="_blank"><strong>Mehmet Seyrimez</strong></a>
+**Mehmet Seyrimez**
 
-<a href="https://mehmetseyrimez.com" target="_blank"><em>SolidWorks & CAD/CAM Otomasyon Geliştirici</em></a>
+*SolidWorks & CAD/CAM Otomasyon Geliştirici*
 
 [![Website](https://img.shields.io/badge/mehmetseyrimez.com-c9a962?style=flat-square&logo=googlechrome&logoColor=0a0a0f)](https://mehmetseyrimez.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmet-seyrimez/)
