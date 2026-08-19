@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0f,50:141419,100:1e1e28&height=260&text=Mehmet%20Seyrimez&fontSize=50&fontColor=e8e8e8&animation=fadeIn&fontAlignY=36&stroke=c9a962&strokeWidth=1&desc=SolidWorks+%26+CAD%2FCAM+Otomasyon+Uzman%C4%B1&descSize=16&descAlignY=58&descColor=c9a962" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0f,50:141419,100:1e1e28&height=230&text=Mehmet%20Seyrimez&fontSize=50&fontColor=e8e8e8&animation=fadeIn&fontAlignY=38&stroke=c9a962&desc=SolidWorks+%26+CAD%2FCAM+Otomasyon+Uzmani&descSize=16&descAlignY=58&descColor=c9a962" alt="Header"/>
 
-<a href="https://www.linkedin.com/in/mehmet-seyrimez/"><img src="https://img.shields.io/badge/LinkedIn'de_Baglan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=005582" height="46" alt="LinkedIn"/></a>
+<br/>
+
+<a href="https://www.linkedin.com/in/mehmet-seyrimez/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="46" alt="LinkedIn"/></a>
 &nbsp;
-<a href="https://mehmetseyrimez.com"><img src="https://img.shields.io/badge/Portfolyo-mehmetseyrimez.com-c9a962?style=for-the-badge&logo=googlechrome&logoColor=0a0a0f&labelColor=1e1e28" height="46" alt="Website"/></a>
-&nbsp;
-<a href="mailto:mehmetseyrimez@gmail.com?subject=CAD%2FCAM%20Otomasyon%20Talebi"><img src="https://img.shields.io/badge/Proje_Talebi_Gonder-2d2d44?style=for-the-badge&logo=gmail&logoColor=c9a962&labelColor=0a0a0f" height="46" alt="Email"/></a>
-&nbsp;
-<a href="https://github.com/SolidKing78"><img src="https://img.shields.io/badge/GitHub-SolidKing78-0a0a0f?style=for-the-badge&logo=github&logoColor=c9a962&labelColor=141419" height="46" alt="GitHub"/></a>
+<a href="https://mehmetseyrimez.com" target="_blank"><img src="https://img.shields.io/badge/mehmetseyrimez.com-c9a962?style=for-the-badge&logo=googlechrome&logoColor=0a0a0f" height="46" alt="Website"/></a>
 
 <br/><br/>
 
@@ -56,11 +54,11 @@ Makro · add-in · toplu işlem · özel entegrasyon
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/mehmet-seyrimez/"><img src="https://img.shields.io/badge/LinkedIn'de_Baglanti_Kur-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="44" alt="LinkedIn CTA"/></a>
+<a href="https://www.linkedin.com/in/mehmet-seyrimez/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="44" alt="LinkedIn"/></a>
 &nbsp;
-<a href="https://mehmetseyrimez.com"><img src="https://img.shields.io/badge/Portfolyo-mehmetseyrimez.com-c9a962?style=for-the-badge&logo=googlechrome&logoColor=0a0a0f" height="44" alt="Portfolio CTA"/></a>
+<a href="https://mehmetseyrimez.com" target="_blank"><img src="https://img.shields.io/badge/mehmetseyrimez.com-c9a962?style=for-the-badge&logo=googlechrome&logoColor=0a0a0f" height="44" alt="Website"/></a>
 &nbsp;
-<a href="mailto:mehmetseyrimez@gmail.com?subject=CAD%2FCAM%20Otomasyon%20Talebi"><img src="https://img.shields.io/badge/Proje_Talebi_Gonder-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="44" alt="Email CTA"/></a>
+<a href="mailto:mehmetseyrimez@gmail.com?subject=CAD%2FCAM%20Otomasyon%20Talebi"><img src="https://img.shields.io/badge/E_posta-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="44" alt="Email"/></a>
 
 </td>
 </tr>
@@ -135,7 +133,7 @@ Parametrik montaj · BOM
 Teknik resim · DXF/PDF/STEP
 
 <br/>
-<a href="mailto:mehmetseyrimez@gmail.com?subject=SolidWorks%20Otomasyon"><img src="https://img.shields.io/badge/Teklif_Al-c9a962?style=for-the-badge&logo=dassaultsystemes&logoColor=0a0a0f" alt="Teklif Al"/></a>
+<a href="mailto:mehmetseyrimez@gmail.com?subject=SolidWorks%20Otomasyon%20Talebi"><img src="https://img.shields.io/badge/Teklif_Al-c9a962?style=for-the-badge&logo=dassaultsystemes&logoColor=0a0a0f" alt="Teklif Al"/></a>
 
 </td>
 <td align="center" width="260">
@@ -147,7 +145,7 @@ Mastercam · CAMWorks · CATIA
 Toplu dosya & özellik yönetimi
 
 <br/>
-<a href="mailto:mehmetseyrimez@gmail.com?subject=CAD%2FCAM%20Otomasyon"><img src="https://img.shields.io/badge/Teklif_Al-c9a962?style=for-the-badge" alt="Teklif Al"/></a>
+<a href="mailto:mehmetseyrimez@gmail.com?subject=CAD%2FCAM%20Otomasyon%20Talebi"><img src="https://img.shields.io/badge/Teklif_Al-c9a962?style=for-the-badge" alt="Teklif Al"/></a>
 
 </td>
 <td align="center" width="260">
@@ -159,7 +157,7 @@ LLM iş akışları · CRM panelleri
 Next.js · TypeScript modülleri
 
 <br/>
-<a href="https://mehmetseyrimez.com"><img src="https://img.shields.io/badge/ParametriX-c9a962?style=for-the-badge&labelColor=1e1e28" alt="ParametriX"/></a>
+<a href="https://mehmetseyrimez.com" target="_blank"><img src="https://img.shields.io/badge/ParametriX-c9a962?style=for-the-badge&labelColor=1e1e28" alt="ParametriX"/></a>
 
 </td>
 </tr>
@@ -286,11 +284,11 @@ Next.js · TypeScript modülleri
 
 <br/>
 
-<a href="https://www.linkedin.com/in/mehmet-seyrimez/"><img src="https://img.shields.io/badge/LinkedIn'de_Yaz-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="46" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/mehmet-seyrimez/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="46" alt="LinkedIn"/></a>
 &nbsp;
-<a href="https://mehmetseyrimez.com"><img src="https://img.shields.io/badge/Web-mehmetseyrimez.com-c9a962?style=for-the-badge&logo=googlechrome&logoColor=0a0a0f" height="46" alt="Web"/></a>
+<a href="https://mehmetseyrimez.com" target="_blank"><img src="https://img.shields.io/badge/mehmetseyrimez.com-c9a962?style=for-the-badge&logo=googlechrome&logoColor=0a0a0f" height="46" alt="Website"/></a>
 &nbsp;
-<a href="mailto:mehmetseyrimez@gmail.com?subject=CAD%2FCAM%20Otomasyon%20Talebi"><img src="https://img.shields.io/badge/E-posta_Gonder-2d2d44?style=for-the-badge&logo=gmail&logoColor=c9a962" height="46" alt="Email"/></a>
+<a href="mailto:mehmetseyrimez@gmail.com?subject=CAD%2FCAM%20Otomasyon%20Talebi"><img src="https://img.shields.io/badge/E_posta-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="46" alt="Email"/></a>
 
 <br/><br/>
 
