@@ -1,8 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0f,50:141419,100:1e1e28&height=230&text=Mehmet%20Seyrimez&fontSize=50&fontColor=e8e8e8&animation=fadeIn&fontAlignY=38&stroke=c9a962&strokeWidth=1" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0f,50:141419,100:1e1e28&height=260&text=Mehmet%20Seyrimez&fontSize=50&fontColor=e8e8e8&animation=fadeIn&fontAlignY=36&stroke=c9a962&strokeWidth=1&desc=SolidWorks+%26+CAD%2FCAM+Otomasyon+Uzman%C4%B1&descSize=16&descAlignY=58&descColor=c9a962" alt="Header"/>
 
-<img src="https://img.shields.io/badge/SolidWorks_and_CAD_CAM_Automation_Expert-c9a962?style=for-the-badge&labelColor=0a0a0f" alt="Subtitle"/>
+<a href="https://www.linkedin.com/in/mehmet-seyrimez/"><img src="https://img.shields.io/badge/LinkedIn'de_Baglan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=005582" height="46" alt="LinkedIn"/></a>
+&nbsp;
+<a href="https://mehmetseyrimez.com"><img src="https://img.shields.io/badge/Portfolyo-mehmetseyrimez.com-c9a962?style=for-the-badge&logo=googlechrome&logoColor=0a0a0f&labelColor=1e1e28" height="46" alt="Website"/></a>
+&nbsp;
+<a href="mailto:mehmetseyrimez@gmail.com?subject=CAD%2FCAM%20Otomasyon%20Talebi"><img src="https://img.shields.io/badge/Proje_Talebi_Gonder-2d2d44?style=for-the-badge&logo=gmail&logoColor=c9a962&labelColor=0a0a0f" height="46" alt="Email"/></a>
+&nbsp;
+<a href="https://github.com/SolidKing78"><img src="https://img.shields.io/badge/GitHub-SolidKing78-0a0a0f?style=for-the-badge&logo=github&logoColor=c9a962&labelColor=141419" height="46" alt="GitHub"/></a>
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=c9a962&height=2&section=header&animation=blinking" alt="divider"/>
 
@@ -24,23 +32,11 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-79226596-5b344eee-62e7-4040-9b00-1353df676b72.gif" width="420" alt="sparkle"/>
 
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/mehmet-seyrimez/"><img src="https://img.shields.io/badge/LinkedIn'de_Baglan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=005582" height="46" alt="LinkedIn"/></a>
-&nbsp;
-<a href="https://mehmetseyrimez.com"><img src="https://img.shields.io/badge/Portfolyo-mehmetseyrimez.com-c9a962?style=for-the-badge&logo=googlechrome&logoColor=0a0a0f&labelColor=1e1e28" height="46" alt="Website"/></a>
-&nbsp;
-<a href="mailto:mehmetseyrimez@gmail.com?subject=CAD%2FCAM%20Otomasyon%20Talebi"><img src="https://img.shields.io/badge/Proje_Talebi_Gonder-2d2d44?style=for-the-badge&logo=gmail&logoColor=c9a962&labelColor=0a0a0f" height="46" alt="Email"/></a>
-&nbsp;
-<a href="https://github.com/SolidKing78"><img src="https://img.shields.io/badge/GitHub-SolidKing78-0a0a0f?style=for-the-badge&logo=github&logoColor=c9a962&labelColor=141419" height="46" alt="GitHub"/></a>
-
 </div>
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=c9a962&height=1&section=header&animation=scaleIn" alt="divider"/>
-
-<img src="https://img.shields.io/badge/Proje_Talebi-c9a962?style=for-the-badge&labelColor=1e1e28" alt="Proje Talebi"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3200&pause=1000&color=8892b0&center=true&width=680&lines=SolidWorks%2C+AutoCAD%2C+Inventor+otomasyonu+mu+ar%C4%B1yorsunuz%3F;Makro+%C2%B7+Add-in+%C2%B7+Toplu+i%C5%9Flem+%C2%B7+%C3%96zel+entegrasyon;K%C4%B1sa+bir+mesaj+yeterli+%E2%86%92+h%C4%B1zl%C4%B1+d%C3%B6n%C3%BC%C5%9F" alt="Proje typing"/>
 
@@ -55,6 +51,10 @@
 Makro · add-in · toplu işlem · özel entegrasyon
 
 <br/>
+
+<a href="mailto:mehmetseyrimez@gmail.com?subject=CAD%2FCAM%20Otomasyon%20Talebi"><img src="https://img.shields.io/badge/Proje_Talebi-c9a962?style=for-the-badge&labelColor=1e1e28" height="44" alt="Proje Talebi"/></a>
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/mehmet-seyrimez/"><img src="https://img.shields.io/badge/LinkedIn'de_Baglanti_Kur-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="44" alt="LinkedIn CTA"/></a>
 &nbsp;
