@@ -1,14 +1,11 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SolidKing78/SolidKing78/master/assets/header-banner.svg" width="100%" alt="Banner"/>
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0a0a0f?style=for-the-badge&labelColor=c9a962" alt=""/>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=48&duration=3000&pause=1800&color=c9a962&center=true&vCenter=true&width=1100&height=72&lines=Mehmet+Seyrimez&background=0a0a0fFF" alt="Mehmet Seyrimez"/>
+<img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=18&duration=2400&pause=1000&color=8892b0&center=true&vCenter=true&width=1100&height=42&lines=SolidWorks+%26+CAD%2FCAM+Otomasyon+Uzmani&background=0a0a0fFF" alt="SolidWorks & CAD/CAM Otomasyon Uzmani"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=52&duration=2800&pause=1500&color=c9a962&center=true&width=900&height=75&lines=Mehmet+Seyrimez" alt="Mehmet Seyrimez"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=18&duration=2400&pause=1000&color=8892b0&center=true&width=820&height=45&lines=SolidWorks+%26+CAD%2FCAM+Otomasyon+Uzmani" alt="Subtitle"/>
+<img src="https://img.shields.io/badge/━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━-0a0a0f?style=for-the-badge&labelColor=1e1e28" alt=""/>
 
 <br/>
 
