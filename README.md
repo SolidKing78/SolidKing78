@@ -1,10 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0f,50:141419,100:1e1e28&height=230&text=Mehmet%20Seyrimez&fontSize=50&fontColor=e8e8e8&animation=fadeIn&fontAlignY=38&stroke=c9a962&strokeWidth=1"/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:141419,100:1e1e28&height=60&section=header&text=SolidWorks+%26+CAD%2FCAM+Otomasyon+Uzman%C4%B1&fontSize=16&fontColor=c9a962&animation=scaleIn"/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=c9a962&height=2&section=header&animation=blinking"/>
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0f,50:141419,100:1e1e28&height=230&text=Mehmet%20Seyrimez&fontSize=50&fontColor=e8e8e8&animation=fadeIn&fontAlignY=38&stroke=c9a962&strokeWidth=1" alt="Header"/>
+
+<img src="https://img.shields.io/badge/SolidWorks_and_CAD_CAM_Automation_Expert-c9a962?style=for-the-badge&labelColor=0a0a0f" alt="Subtitle"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=c9a962&height=2&section=header&animation=blinking" alt="divider"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=800&color=c9a962&center=true&vCenter=true&multiline=true&width=760&height=105&lines=Merhaba%2C+Ben+Mehmet+Seyrimez;SolidWorks+API+%26+CAD%2FCAM+Otomasyon+Uzman%C4%B1;Her+T%C3%BCr+CAD%2FCAM+Program+Otomasyonu;AutoCAD+%C2%B7+Inventor+%C2%B7+Fusion+360+%C2%B7+Mastercam;Parametrik+Montaj+%C2%B7+BOM+%C2%B7+DXF%2FPDF%2FSTEP;7%2B+Y%C4%B1l+Ar-Ge+%C2%B7+ParametriX" alt="Hero"/>
 
@@ -36,11 +36,11 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=c9a962&height=1&section=header&animation=scaleIn"/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1e28,100:0a0a0f&height=70&section=header&text=Proje%20Talebi&fontSize=22&fontColor=c9a962&animation=fadeIn"/>
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=c9a962&height=1&section=header&animation=scaleIn" alt="divider"/>
+
+<img src="https://img.shields.io/badge/Proje_Talebi-c9a962?style=for-the-badge&labelColor=1e1e28" alt="Proje Talebi"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3200&pause=1000&color=8892b0&center=true&width=680&lines=SolidWorks%2C+AutoCAD%2C+Inventor+otomasyonu+mu+ar%C4%B1yorsunuz%3F;Makro+%C2%B7+Add-in+%C2%B7+Toplu+i%C5%9Flem+%C2%B7+%C3%96zel+entegrasyon;K%C4%B1sa+bir+mesaj+yeterli+%E2%86%92+h%C4%B1zl%C4%B1+d%C3%B6n%C3%BC%C5%9F" alt="Proje typing"/>
 
@@ -116,7 +116,7 @@ namespace MehmetSeyrimez
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:141419,100:1e1e28&height=60&section=header&text=Uzmanlik+Alanlarim&fontSize=18&fontColor=c9a962&animation=scaleIn"/>
+<img src="https://img.shields.io/badge/Uzmanlik_Alanlarim-c9a962?style=for-the-badge&labelColor=0a0a0f" alt="Uzmanlik Alanlarim"/>
 
 <br/>
 
@@ -195,24 +195,25 @@ Next.js · TypeScript modülleri
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:141419,100:1e1e28&height=60&section=header&text=GitHub+Analytics&fontSize=18&fontColor=c9a962&animation=fadeIn"/>
+<img src="https://img.shields.io/badge/GitHub_Analytics-c9a962?style=for-the-badge&labelColor=0a0a0f" alt="GitHub Analytics"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=800&color=8892b0&center=true&width=400&lines=Canli+istatistikler;Commit+%C2%B7+Streak+%C2%B7+Dil+dagilimi" alt="Stats typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=800&color=8892b0&center=true&width=400&lines=Canli+istatistikler;Commit+%C2%B7+Dil+dagilimi+%C2%B7+Aktivite" alt="Stats typing"/>
 
 <br/>
 
-<img height="190" alt="GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SolidKing78&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0f&title_color=c9a962&icon_color=8892b0&text_color=e8e8e8&border_radius=14&rank_icon=percentile"/>
-
-<img height="190" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=SolidKing78&theme=dark&hide_border=true&background=0a0a0f&ring=c9a962&fire=8892b0&currStreakLabel=e8e8e8&border_radius=14"/>
-
-<img height="190" alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SolidKing78&layout=donut-vertical&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=c9a962&text_color=e8e8e8&border_radius=14&langs_count=8"/>
+<img width="410" alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SolidKing78&theme=github_dark"/>
+<img width="410" alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SolidKing78&theme=github_dark"/>
 
 <br/>
 
-<img width="400" alt="Profile Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SolidKing78&theme=dark"/>
-<img width="400" alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SolidKing78&theme=dark"/>
+<img width="410" alt="Repos Per Language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SolidKing78&theme=github_dark"/>
+<img width="410" alt="Most Commit Language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SolidKing78&theme=github_dark"/>
+
+<br/>
+
+<img width="830" alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SolidKing78&theme=github_dark&utcOffset=3"/>
 
 <br/><br/>
 
@@ -224,7 +225,7 @@ Next.js · TypeScript modülleri
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:141419,100:1e1e28&height=60&section=header&text=Public+Repositories&fontSize=18&fontColor=c9a962&animation=scaleIn"/>
+<img src="https://img.shields.io/badge/Public_Repositories-c9a962?style=for-the-badge&labelColor=0a0a0f" alt="Public Repositories"/>
 
 <br/>
 
@@ -260,7 +261,7 @@ Next.js · TypeScript modülleri
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1e1e28,100:0a0a0f&height=75&section=header&text=Iletisim&fontSize=24&fontColor=c9a962&animation=fadeIn"/>
+<img src="https://img.shields.io/badge/Iletisim-c9a962?style=for-the-badge&labelColor=1e1e28" alt="Iletisim"/>
 
 <br/>
 

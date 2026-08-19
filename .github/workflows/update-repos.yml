@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate repo pin cards
+      - name: Generate repo cards
         uses: actions/github-script@v7
         with:
           script: |
@@ -33,11 +33,15 @@ jobs:
 
             let cards = '';
             for (const repo of publicRepos) {
-              cards += `<img width="415" alt="${repo.name}" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=SolidKing78&repo=${repo.name}&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=c9a962&icon_color=8892b0&text_color=e8e8e8&border_radius=14&description_lines=3"/>\n\n`;
+              const lang = repo.language ? encodeURIComponent(repo.language) : 'Code';
+              const desc = (repo.description || 'Public repository').slice(0, 80);
+              cards += `<a href="${repo.html_url}"><img src="https://img.shields.io/badge/${encodeURIComponent(repo.name)}-${lang}-c9a962?style=for-the-badge&labelColor=0a0a0f" alt="${repo.name}"/></a> &nbsp; \n\n`;
+              cards += `${desc}\n\n`;
+              cards += `⭐ ${repo.stargazers_count} · 🍴 ${repo.forks_count} · [Repo →](${repo.html_url})\n\n---\n\n`;
             }
 
             if (publicRepos.length === 0) {
-              cards = '<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=1500&color=c9a962&center=true&width=520&lines=Hen%C3%BCz+proje+reposu+yok+%E2%9A%A1;Yeni+repo+eklendi%C4%9Finde+otomatik+buraya+d%C3%BC%C5%9Fecek"/>\n';
+              cards = '<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=1500&color=c9a962&center=true&width=520&lines=Henuz+proje+reposu+yok;Yeni+repo+eklendiginde+otomatik+buraya+duser" alt="Repo placeholder"/>\n';
             }
 
             const readme = fs.readFileSync('README.md', 'utf8');
