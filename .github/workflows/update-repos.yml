@@ -41,7 +41,7 @@ jobs:
             }
 
             if (publicRepos.length === 0) {
-              cards = '<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=1500&color=c9a962&center=true&width=520&lines=Henuz+proje+reposu+yok;Yeni+repo+eklendiginde+otomatik+buraya+duser" alt="Repo placeholder"/>\n';
+              cards = '<a href="https://mehmetseyrimez.com" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2800&pause=1500&color=c9a962&center=true&width=520&lines=Henuz+proje+reposu+yok;Yeni+repo+eklendiginde+otomatik+buraya+duser" alt="Repo placeholder"/></a>\n';
             }
 
             const readme = fs.readFileSync('README.md', 'utf8');
