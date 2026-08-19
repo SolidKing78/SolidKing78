@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="Mehmet Seyrimez banner">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0a0f"/>
+      <stop offset="50%" stop-color="#141419"/>
+      <stop offset="100%" stop-color="#1e1e28"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#c9a962" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#c9a962" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#c9a962" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="220" fill="url(#bg)" rx="18"/>
+  <rect x="1" y="1" width="1198" height="218" fill="none" stroke="#c9a962" stroke-opacity="0.35" rx="18"/>
+
+  <rect x="80" y="28" width="1040" height="2" fill="url(#gold)" opacity="0.8"/>
+  <rect x="80" y="190" width="1040" height="2" fill="url(#gold)" opacity="0.8"/>
+
+  <circle cx="110" cy="110" r="3" fill="#c9a962" opacity="0.7"/>
+  <circle cx="1090" cy="110" r="3" fill="#c9a962" opacity="0.7"/>
+
+  <text x="600" y="118" text-anchor="middle" fill="#8892b0" font-family="Segoe UI, Arial, sans-serif" font-size="18" letter-spacing="4">
+    SOLIDWORKS · CAD/CAM · OTOMASYON
+  </text>
+
+  <text x="600" y="168" text-anchor="middle" fill="#c9a962" font-family="Segoe UI, Arial, sans-serif" font-size="15" letter-spacing="2" opacity="0.85">
+    mehmetseyrimez.com
+  </text>
+</svg>

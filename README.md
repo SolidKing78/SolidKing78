@@ -1,6 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0f,50:141419,100:1e1e28&height=230&text=Mehmet%20Seyrimez&fontSize=50&fontColor=e8e8e8&animation=fadeIn&fontAlignY=38&stroke=c9a962&desc=SolidWorks+%26+CAD%2FCAM+Otomasyon+Uzmani&descSize=16&descAlignY=58&descColor=c9a962" alt="Header"/>
+<img src="https://raw.githubusercontent.com/SolidKing78/SolidKing78/master/assets/header-banner.svg" width="100%" alt="Banner"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=52&duration=2800&pause=1500&color=c9a962&center=true&width=900&height=75&lines=Mehmet+Seyrimez" alt="Mehmet Seyrimez"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Special+Elite&size=18&duration=2400&pause=1000&color=8892b0&center=true&width=820&height=45&lines=SolidWorks+%26+CAD%2FCAM+Otomasyon+Uzmani" alt="Subtitle"/>
 
 <br/>
 
@@ -8,11 +16,11 @@
 &nbsp;
 <a href="https://mehmetseyrimez.com" target="_blank"><img src="https://img.shields.io/badge/mehmetseyrimez.com-c9a962?style=for-the-badge&logo=googlechrome&logoColor=0a0a0f" height="46" alt="Website"/></a>
 
-<br/><br/>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=c9a962&height=2&section=header&animation=blinking" alt="divider"/>
+---
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=800&color=c9a962&center=true&vCenter=true&multiline=true&width=760&height=105&lines=Merhaba%2C+Ben+Mehmet+Seyrimez;SolidWorks+API+%26+CAD%2FCAM+Otomasyon+Uzman%C4%B1;Her+T%C3%BCr+CAD%2FCAM+Program+Otomasyonu;AutoCAD+%C2%B7+Inventor+%C2%B7+Fusion+360+%C2%B7+Mastercam;Parametrik+Montaj+%C2%B7+BOM+%C2%B7+DXF%2FPDF%2FSTEP;7%2B+Y%C4%B1l+Ar-Ge+%C2%B7+ParametriX" alt="Hero"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=800&color=c9a962&center=true&vCenter=true&multiline=true&width=760&height=105&lines=SolidWorks+API+%26+CAD%2FCAM+Otomasyon;Her+T%C3%BCr+CAD%2FCAM+Program+Otomasyonu;AutoCAD+%C2%B7+Inventor+%C2%B7+Fusion+360+%C2%B7+Mastercam;Parametrik+Montaj+%C2%B7+BOM+%C2%B7+DXF%2FPDF%2FSTEP;7%2B+Y%C4%B1l+Ar-Ge+%C2%B7+ParametriX" alt="Hero"/>
 
 <br/>
 
