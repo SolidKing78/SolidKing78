@@ -237,19 +237,11 @@ Next.js · TypeScript modülleri
 <br/>
 
 <!-- REPOS:START -->
-<a href="https://github.com/SolidKing78/CutFlow---Update"><img src="https://img.shields.io/badge/CutFlow---Update-Code-c9a962?style=for-the-badge&labelColor=0a0a0f" alt="CutFlow---Update"/></a> &nbsp; 
+<a href="https://github.com/SolidKing78/CutFlow-Update"><img src="https://img.shields.io/badge/CutFlow-Update-Code-c9a962?style=for-the-badge&labelColor=0a0a0f" alt="CutFlow-Update"/></a> &nbsp; 
 
 CutFlow kurulum guncellemeleri
 
-⭐ 0 · 🍴 0 · [Repo →](https://github.com/SolidKing78/CutFlow---Update)
-
----
-
-<a href="https://github.com/SolidKing78/CutFlow---Update-old"><img src="https://img.shields.io/badge/CutFlow---Update-old-Code-c9a962?style=for-the-badge&labelColor=0a0a0f" alt="CutFlow---Update-old"/></a> &nbsp; 
-
-Public repository
-
-⭐ 0 · 🍴 0 · [Repo →](https://github.com/SolidKing78/CutFlow---Update-old)
+⭐ 0 · 🍴 0 · [Repo →](https://github.com/SolidKing78/CutFlow-Update)
 
 ---
 
