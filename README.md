@@ -237,6 +237,14 @@ Next.js · TypeScript modülleri
 <br/>
 
 <!-- REPOS:START -->
+<a href="https://github.com/SolidKing78/Emre--nsta"><img src="https://img.shields.io/badge/Emre--nsta-TypeScript-c9a962?style=for-the-badge&labelColor=0a0a0f" alt="Emre--nsta"/></a> &nbsp; 
+
+Public repository
+
+⭐ 0 · 🍴 0 · [Repo →](https://github.com/SolidKing78/Emre--nsta)
+
+---
+
 <a href="https://github.com/SolidKing78/CutFlow-Update"><img src="https://img.shields.io/badge/CutFlow-Update-Code-c9a962?style=for-the-badge&labelColor=0a0a0f" alt="CutFlow-Update"/></a> &nbsp; 
 
 CutFlow kurulum guncellemeleri
