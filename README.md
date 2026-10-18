@@ -237,6 +237,14 @@ Next.js · TypeScript modülleri
 <br/>
 
 <!-- REPOS:START -->
+<a href="https://github.com/SolidKing78/rea"><img src="https://img.shields.io/badge/rea-Code-c9a962?style=for-the-badge&labelColor=0a0a0f" alt="rea"/></a> &nbsp; 
+
+Reverse engineer anything with agents, from app behavior down to native binaries
+
+⭐ 0 · 🍴 0 · [Repo →](https://github.com/SolidKing78/rea)
+
+---
+
 <a href="https://github.com/SolidKing78/Emre--nsta"><img src="https://img.shields.io/badge/Emre--nsta-TypeScript-c9a962?style=for-the-badge&labelColor=0a0a0f" alt="Emre--nsta"/></a> &nbsp; 
 
 Public repository
